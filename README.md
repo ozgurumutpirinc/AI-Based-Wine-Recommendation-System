@@ -12,13 +12,21 @@ This projects recommends suitable wine recommendation according to user's reques
 <h2>STRUCTURE</h2>
 
 WineRecommendation/
+
 │
+
 ├── main.py                User enters a query and an answer is generated
+
 ├── MissingValues.py       Display number of missing values and their ratios for each columns
+
 ├── wine_model.py          Answer generation
+
 ├── text_cleaner.py        Cleaning text columns
+
 ├── wine_nlp.py            Exploratory data analysis and embedding data to vector database
+
 ├── requirements.txt     
+
 └── README.md            
 
 <h2>SET THE PROJECT</h2>
