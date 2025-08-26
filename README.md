@@ -23,6 +23,7 @@ WineRecommendation/
 
 <h2>SET THE PROJECT</h2>
 git clone https://github.com/ozgurumutpirinc/AI-Based-Wine-Recommendation-System.git
+
 cd AI-Based-Wine-Recommendation-System
 
 pip install -r requirements.txt
